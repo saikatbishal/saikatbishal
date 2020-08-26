@@ -1,5 +1,6 @@
 # Hi there 👋
 ### Welcome to my github profile.
+![This is me]()
 
 - 🔭 I’m currently working on a startup idea named [codesthaan](https://www.codesthaan.com)
 
@@ -13,6 +14,9 @@
       (And of course Data Science is my Bread and Butter).
       
 - 📫 If you want to talk to me feel free to email me at [Email 1](saikat.bishal786@gmail.com), [email 2](saikatbishal@codesthaan.com)
-- 😄 Pronouns:  He, Him, Oye, Mew-Mew
-- ⚡ Fun fact: I am a Graphic Designer by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/
--->✨✨✨
+
+- 😄 Pronouns:  He, Him, Oye, Mew-Mew (I love Cats)
+
+- ⚡ Fun fact: I am a Graphic Designer by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
+
+-
