@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Welcome to my github profile.
-![This is me]()
+![This is me](https://github.com/saikatbishal/Binary-Classification-ML-algorithms/blob/master/IMG_2609-2.jpg)
 
 - 🔭 I’m currently working on a startup idea named [codesthaan](https://www.codesthaan.com)
 
