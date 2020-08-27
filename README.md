@@ -42,7 +42,7 @@
 - [YouTube channels you should follow](https://codesthaan.com/youtube-channels-you-should-follow/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codesthaan.com/blog/)
 
 ---
 
@@ -59,12 +59,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Saikat Bishal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codesthaan.com
 [twitter]: https://twitter.com/codesthaan
