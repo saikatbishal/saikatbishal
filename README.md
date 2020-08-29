@@ -32,6 +32,8 @@
 <br />
 <br />
 
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
