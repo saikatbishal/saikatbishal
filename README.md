@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Welcome to my github profile.
 
-![This is me](https://github.com/saikatbishal/Binary-Classification-ML-algorithms/blob/master/IMG_2609-2.jpg)
+![Coding](https://github.com/saikatbishal/Images-of-me/blob/master/6eb67157947063.59e9cf8a1bed4.jpg)
 
 - 🔭 I’m currently working on a startup idea named [codesthaan](https://www.codesthaan.com)
 
@@ -33,7 +33,7 @@
 <br />
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/saikatbishal/Images-of-me/blob/master/dino.gif)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
