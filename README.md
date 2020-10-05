@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Welcome to my github profile.
 
-![Coding](https://github.com/saikatbishal/Images-of-me/blob/master/6eb67157947063.59e9cf8a1bed4.jpg)
+![Coding]https://github.com/saikatbishal/Images-of-me/blob/master/banner-image.png)
 
 - 🔭 I’m currently working on a startup idea named [codesthaan](https://www.codesthaan.com)
 
