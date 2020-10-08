@@ -33,7 +33,7 @@
 <br />
 
 
-![image](https://github.com/saikatbishal/Images-of-me/blob/master/dino.gif)
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
