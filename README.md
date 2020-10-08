@@ -32,7 +32,7 @@
 <br />
 <br />
 
-
+![image](https://github.com/saikatbishal/Images-of-me/blob/master/dino.gif)
 
 ### 📕 Latest Blog Posts
 
@@ -48,12 +48,6 @@
 
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
-<details>
-
-  
-
-
-</details>
 
 
 [website]: https://codesthaan.com
