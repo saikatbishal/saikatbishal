@@ -16,9 +16,9 @@
       
 - 📫 If you want to talk to me feel free to email me at [Email 1](saikat.bishal786@gmail.com), [email 2](saikatbishal@codesthaan.com)
 
-- 😄 Pronouns:  He, Him, Oye, Mew-Mew (I love Cats)
+- 😄 Pronouns:  He, Him
 
-- ⚡ Fun fact: I am a Graphic Designer by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
+- ⚡ Fun fact: I am a Graphic Designer and visual storyteller by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
 
 - 🎁 Let me know if there's a job opening as I'm currently looking for some money.
 
