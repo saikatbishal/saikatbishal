@@ -3,7 +3,7 @@
 
 <img src = "https://github.com/saikatbishal/Images-of-me/blob/master/banner-image.png" width ="500px" alt ="Saikat is coding!!" align = "middle"></img>
 <br />
-![](https://komarev.com/ghpvc/?username=saikatbishal&label=Profile+Views+Today)
+![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179)
 
 
 
