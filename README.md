@@ -47,7 +47,7 @@
 ➡️ [more blog posts...](https://codesthaan.com/blog/)
 
 ---
-<img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151615"></img>
+<img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=392b28&icon_color=bb2acf&text_color=031240&bg_color=f2c6b6"></img>
 
 
 [website]: https://codesthaan.com
