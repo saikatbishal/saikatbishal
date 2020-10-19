@@ -2,6 +2,8 @@
 ### Welcome to my github profile.
 
 <img src = "https://github.com/saikatbishal/Images-of-me/blob/master/banner-image.png" width ="500px" alt ="Saikat is coding!!" align = "middle"></img>
+<br/>
+<img src="https://camo.githubusercontent.com/4f59e66b34b4e1a8c437cf95fe112698bf0a4550/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7573746166697a3034" alt="saikatbishal" data-canonical-src="https://komarev.com/ghpvc/?username=saikatbishal" style="max-width:100%;">
 
 - 🔭 I’m currently working on a startup idea named [codesthaan](https://www.codesthaan.com)
 
@@ -48,7 +50,7 @@
 
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=264067&icon_color=bb2acf&text_color=031240&bg_color=f2c6b6"></img>
-
+<img align="right" src="https://camo.githubusercontent.com/dffc7d15f946496b2fbaa45f68bfdeb1cb0234d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7573746166697a3034266c61796f75743d636f6d7061637426686964653d68746d6c" alt="saikatbishal" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&amp;layout=compact&amp;hide=html" style="max-width:100%;">
 
 [website]: https://codesthaan.com
 [twitter]: https://twitter.com/codesthaan
