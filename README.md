@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I am Saikat Bishal 👋
 ### Welcome to my github profile.
 
 <img src = "https://github.com/saikatbishal/Images-of-me/blob/master/banner-image.png" width ="500px" alt ="Saikat is coding!!" align = "middle"></img>
@@ -22,11 +22,11 @@
 
 - ⚡ Fun fact: I am a `Graphic Designer` and `Visual Storyteller` by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
 
-- 🎁 Let me know if there's a job opening as I'm currently looking for some money.
+- 🎁 I am open for commission of `freelance` work related to graphic design.
 
 ### Connect with me:
 
-[<img align="left" alt="codesthaan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="saikatbishal.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codesthaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="saikat bishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="the-thin-white-frame | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
