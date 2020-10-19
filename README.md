@@ -24,7 +24,7 @@
 
 - 🎁 I am open for commission of `freelance` work related to graphic design.
 
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center" style="max-width:100%;">
+<img src="https://github.com/saikatbishal/Images-of-me/blob/master/hello-languages.gif" align="center" style="width:50%;">
 <br/>
 
 ### Connect with me:
