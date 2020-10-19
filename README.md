@@ -24,6 +24,9 @@
 
 - 🎁 I am open for commission of `freelance` work related to graphic design.
 
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center" style="max-width:100%;">
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="saikatbishal.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,8 +36,6 @@
 
 <br />
 <br />
-
-![image](https://github.com/saikatbishal/Images-of-me/blob/master/dino.gif)
 
 ### 📕 Latest Blog Posts
 
