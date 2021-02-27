@@ -18,7 +18,7 @@
 - 💬 You can ask me about anything related to `Python3`, `C++` and `Java`.
       
       
-- 📫 If you want to talk to me feel free to email me at [Email](saikat.bishal786@gmail.com), [Email](saikatbishal@codesthaan.com)
+- 📫 If you want to talk to me feel free to email me at `saikat.bishal786@gmail.com`, `saikatbishal@codesthaan.com`
 
 - 😄 Pronouns:  He, Him
 
