@@ -11,7 +11,7 @@
 
 - 🌱 Learning to code and of course to live life to the fullest.
 
-- 👯 I’m looking to collaborate on any `C++` or `Python ML` project.
+- 👯 I’m looking to collaborate on any `C++` or `Android Development` project.
 
 - 🤔 If you are a Frontend or Backend web developer, then I need your help.
 
