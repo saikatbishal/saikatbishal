@@ -15,8 +15,8 @@
 
 - 🤔 If you are a Frontend or Backend web developer, then I need your help.
 
-- 💬 You can ask me about anything related to `Python3`, `C++` and `Java`
-      (And of course Data Science is my Bread and Butter).
+- 💬 You can ask me about anything related to `Python3`, `C++` and `Java`.
+      
       
 - 📫 If you want to talk to me feel free to email me at [Email](saikat.bishal786@gmail.com), [Email](saikatbishal@codesthaan.com)
 
