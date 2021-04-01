@@ -39,23 +39,20 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Latest Projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Advantages and Disadvantages of Python](https://codesthaan.com/advantages-and-disadvantages-of-python-why-it-is-important/)
-- [Advantages and Disadvantages of C++](https://codesthaan.com/pros-and-cons-of-c/)
-- [Advantages and Disadvantages of Java](https://codesthaan.com/advantages-and-disadvantages-of-java-and-why-you-should-embrace-it/)
-- [Top 10 websites to learn coding](https://codesthaan.com/my-top-10-websites-for-data-science/)
-- [YouTube channels you should follow](https://codesthaan.com/youtube-channels-you-should-follow/)
-<!-- BLOG-POST-LIST:END -->
+<!-- PROJECT-LIST:START -->
+- [Sorting Visualizer](https://sorting-algo-saikat.herokuapp.com/)
+- [Expence Tracker with voice input](https://exp-track-saikat.herokuapp.com/)
+- [Android App - To Do List](https://github.com/saikatbishal/NEW-DO-IT-App)
+<!-- PROJECT-LIST:END -->
 
-➡️ [more blog posts...](https://codesthaan.com/blog/)
+➡️ [blogs...](https://codesthaan.com/blog/)
 
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=264067&icon_color=bb2acf&text_color=031240&bg_color=f2c6b6"></img>
 <img align="right" src="https://camo.githubusercontent.com/dffc7d15f946496b2fbaa45f68bfdeb1cb0234d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7573746166697a3034266c61796f75743d636f6d7061637426686964653d68746d6c" alt="saikatbishal" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&amp;layout=compact&amp;hide=html" style="max-width:100%;">
 
-[website]: https://codesthaan.com
-[twitter]: https://twitter.com/codesthaan
+[website]: https://https://still-taiga-23032.herokuapp.com
 [instagram]: https://www.instagram.com/the_thin_white_frame/
 [linkedin]: https://linkedin.com/in/saikat-bishal-analyst/
