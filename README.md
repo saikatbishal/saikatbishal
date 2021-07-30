@@ -11,20 +11,20 @@
 
 - 🌱 Learning to code and of course to live life to the fullest.
 
-- 👯 I’m looking to collaborate on any `C++` or `Android Development` project.
+- 👯 I’m looking to collaborate on any `C++/Java` or `Web Development` project.
 
 - 🤔 If you are a Frontend or Backend web developer, then I need your help.
 
 - 💬 You can ask me about anything related to `Python3`, `C++` and `Java`.
       
       
-- 📫 If you want to talk to me feel free to email me at `saikat.bishal786@gmail.com`, `saikatbishal@codesthaan.com`
+- 📫 If you want to talk to me feel free to email me at `saikat.bishal786@gmail.com`, `saikat.bishal@lntinfotech.com`
 
 - 😄 Pronouns:  He, Him
 
 - ⚡ Fun fact: I am a `Graphic Designer` and `Visual Storyteller` by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
 
-- 🎁 I am open for commission of `freelance` work related to graphic design.
+- 🎁 I am currently working at `Larsen and Toubro Infotech Ltd`.
 
 <img src="https://github.com/saikatbishal/Images-of-me/blob/master/hello-language.gif" align="center" style="width:50%;">
 <br/>
@@ -45,8 +45,6 @@
 - [Expence Tracker with voice input](https://exp-track-saikat.herokuapp.com/)
 - [Android App - To Do List](https://github.com/saikatbishal/NEW-DO-IT-App)
 <!-- PROJECT-LIST:END -->
-
-➡️ [blogs...](https://codesthaan.com/blog/)
 
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=264067&icon_color=bb2acf&text_color=031240&bg_color=f2c6b6"></img>
