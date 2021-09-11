@@ -3,9 +3,9 @@
 
 <img src = "https://github.com/saikatbishal/Images-of-me/blob/master/banner-image.png" width ="300px" alt ="Saikat is coding!!" align = "middle"></img>
 <br />
-![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179)
+<!-- ![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179) -->
 
-
+<img src="https://komarev.com/ghpvc/?username=saikatbishal&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
 - 🌱 Learning to code and of course to live life to the fullest.
 
@@ -38,9 +38,33 @@
 
 ---
 ### Stats 📈
-<img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexdolbun github stats"></img>
-<img align="right" src="https://camo.githubusercontent.com/dffc7d15f946496b2fbaa45f68bfdeb1cb0234d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7573746166697a3034266c61796f75743d636f6d7061637426686964653d68746d6c" alt="saikatbishal" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&amp;layout=compact&amp;hide=html" style="max-width:100%;">
-
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="https://saikatbishal.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=saikatbishal&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="saikat's github stats">
+      <a/>
+    </td>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=github_dark&layout=compact&hide_border=true" alt="saikat's language stats">
+      <a/>
+    </td>
+   </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
+      <a/>
+    </td>
+    <td>
+      <a href="http://still-taiga-23032.herokuapp.com/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=github_dark&hide_border=true" alt="saikatbishal Language usage time">
+      <a/>
+    </td>
+   </tr>
+</table>
 <p align="center">
   <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
     <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Saikat-FF6719?style=for-the-badge&logo=substack&logoColor=white">
