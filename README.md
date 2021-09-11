@@ -58,6 +58,11 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
+    <td>
+      <a href="https://github.com/saikatbishal" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=github_dark&hide_border=true" alt="saikatbishal GitHub Profile">
+      <a/>
+    </td>
    </tr>
 </table>
 <p align="center">
