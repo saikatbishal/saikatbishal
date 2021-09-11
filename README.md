@@ -20,19 +20,11 @@
 
 - 😄 Pronouns:  He, Him
 
-- ⚡ Fun fact: I am a `Graphic Designer` and `Visual Storyteller` by passion. You can love my work at [Instagram](https://www.instagram.com/the_thin_white_frame/)
+- ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
 
 - 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd`.
 
 <img src="https://github.com/saikatbishal/Images-of-me/blob/master/hello-language.gif" align="center" style="width:50%;">
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="saikat bishal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="saikat bishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="the-thin-white-frame | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 <br />
 
@@ -45,9 +37,21 @@
 <!-- PROJECT-LIST:END -->
 
 ---
-<img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&title_color=264067&icon_color=bb2acf&text_color=031240&bg_color=f2c6b6"></img>
+### Stats 📈
+<img src = "https://github-readme-stats.vercel.app/api?username=saikatbishal&&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexdolbun github stats"></img>
 <img align="right" src="https://camo.githubusercontent.com/dffc7d15f946496b2fbaa45f68bfdeb1cb0234d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7573746166697a3034266c61796f75743d636f6d7061637426686964653d68746d6c" alt="saikatbishal" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&amp;layout=compact&amp;hide=html" style="max-width:100%;">
 
-[website]: https://still-taiga-23032.herokuapp.com
-[instagram]: https://www.instagram.com/the_thin_white_frame/
-[linkedin]: https://linkedin.com/in/saikat-bishal-analyst/
+<p align="center">
+  <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+    <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Saikat-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+   <a/>
+  <a href="https://discord.gg/UMh8EASp7P" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/826069747179061260?logo=discord&logoColor=white&style=for-the-badge">
+   <a/>
+  <a href="https://linkedin.com/in/saikat-bishal" target="_blank">
+    <img alt="Aleksei Dolgikh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href="https://twitter.com/thinwhiteframe" target="_blank">
+    <img alt="@saikatbishal Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social">
+  <a/>
+</p>
