@@ -13,7 +13,7 @@
 
 - 🤔 If you are a Frontend or Backend web developer, then I need your help.
 
-- 💬 You can ask me about anything related to `Python3`, `C++` and `Java`.
+- 💬 You can ask me about anything related to `Web Development`, `C++` and `Java`.
       
       
 - 📫 If you want to talk to me feel free to email me at `saikat.bishal786@gmail.com`, `saikat.bishal@lntinfotech.com`
@@ -23,6 +23,7 @@
 - ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
 
 - 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd`.
+- 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
 
 <img src="https://github.com/saikatbishal/Images-of-me/blob/master/hello-language.gif" align="center" style="width:50%;">
 <br />
@@ -37,6 +38,25 @@
 <!-- PROJECT-LIST:END -->
 
 ---
+
+### Technologies
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="CSharp" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br/>
+<br/>
+
 ### Stats 📈
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
