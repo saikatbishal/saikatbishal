@@ -60,12 +60,12 @@
    <tr>
     <td>
       <a href="https://github.com/saikatbishal" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=saikatbishal&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="saikat's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=saikatbishal&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="saikat's github stats">
       <a/>
     </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=github_dark&layout=compact&hide_border=true" alt="saikat's language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=merko&layout=compact&hide_border=true" alt="saikat's language stats">
       <a/>
     </td>
    </tr>
@@ -73,12 +73,12 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=merko&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=github_dark&hide_border=true" alt="saikatbishal GitHub Profile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=merko&hide_border=true" alt="saikatbishal GitHub Profile">
       <a/>
     </td>
    </tr>
