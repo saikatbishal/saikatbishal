@@ -75,7 +75,7 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
     <td>
