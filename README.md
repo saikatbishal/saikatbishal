@@ -66,7 +66,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
+      <a href="https://saikatbishal.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=github_dark&layout=compact&hide_border=true" alt="saikat's language stats">
       <a/>
     </td>
@@ -74,7 +74,7 @@
   <tr>
   <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
+      <a href="https://saikatbishal.com" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=tokyonight_duo&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
