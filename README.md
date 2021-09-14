@@ -76,7 +76,7 @@
   <tr>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=saikatbishal&theme=github-dark&hide_border=true" alt="saikatishal streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
     <td>
@@ -100,3 +100,5 @@
     <img alt="@saikatbishal Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social">
   <a/>
 </p>
+
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikatbishal)](https://git.io/streak-stats)
