@@ -7,6 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=saikatbishal&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
+<a href="https://open.spotify.com/user/31nenttwmmxy5zg3n4przrz2v7uq">
+  <img align="left" alt="Preetham's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
+      <br/>
 - 🌱 Learning to code and of course to live life to the fullest.
 
 - 👯 I’m looking to collaborate on any `C++/Java` or `Web Development` project.
