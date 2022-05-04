@@ -7,14 +7,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=saikatbishal&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
-<a href="https://open.spotify.com/user/31nenttwmmxy5zg3n4przrz2v7uq">
+
+<a href="https://open.spotify.com/user/gs664afjszbfev7wyf63xn9l8">
   <img align="left" alt="Preetham's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
-      <br/>
+<a href="https://www.hackerrank.com/bored_boy">
+  <img align="left" alt="Saikat's HackerRank" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" /></a>
+  
+  <a href="https://leetcode.com/saikatbishal/">
+  <img align="left" alt="Saikat's LeetCode" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" /></a>
+<br/>
+  <br/>
 - 🌱 Learning to code and of course to live life to the fullest.
 
 - 👯 I’m looking to collaborate on any `C++/Java` or `Web Development` project.
 
-- 🤔 If you are a Frontend or Backend web developer, then I need your help.
+- 🤔 I am in search for a friend who is good at `sales` and `marketing` and can speak with confidence.
 
 - 💬 You can ask me about anything related to `Web Development`, `C++` and `Java`.
       
@@ -25,7 +32,7 @@
 
 - ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
 
-- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd`.
+- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
 - 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
 
 <br />
