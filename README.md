@@ -17,6 +17,7 @@
   <img align="left" alt="Saikat's LeetCode" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" /></a>
 <br/>
   <br/>
+  
 - 🌱 Learning to code and of course to live life to the fullest.
 
 - 👯 I’m looking to collaborate on any `C++/Java` or `Web Development` project.
@@ -59,13 +60,13 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="c plus plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" href="https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1" />
 <a href="https://www.photoshop.com/en" target="_blank"> <img align "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank">
 <a href="https://postman.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" margin ="10px"/> </a>
       <a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-     
+ <a href = "https://sass-lang.com/" target ="_blank"> <img align ="left" src="https://www.svgrepo.com/show/374067/scss2.svg" alt="sass" width="30px" height="30px"/></a>
 <br/>
 <br/>
 
