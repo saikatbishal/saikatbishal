@@ -1,7 +1,7 @@
 # Hello World!, I am Saikat Bishal 👋
 ### Welcome to my github profile.
-
-<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=3f1dfffa3161a32a86116cdf1ec6c467b6220c5b52077b5d42dd3b8e6d67d482&ipo=images" width ="700px" alt ="Saikat is coding!!" align = "middle"></img>
+<!-- https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe4%2F26%2F70%2Fe426702edf874b181aced1e2fa5c6cde.gif&f=1&nofb=1&ipt=c11cd9f3980f78961bf2c7bb8948756156868e8bd5fb24cf5c5cc775d7bd83ee&ipo=images -->
+<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=3f1dfffa3161a32a86116cdf1ec6c467b6220c5b52077b5d42dd3b8e6d67d482&ipo=images" width ="500px" alt ="Saikat is coding!!" align = "middle"></img>
 <br />
 <!-- ![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179) -->
 
