@@ -9,7 +9,7 @@
 
 
 <a href="https://open.spotify.com/user/gs664afjszbfev7wyf63xn9l8">
-  <img align="left" alt="Preetham's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
+  <img align="left" alt="Saikat's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 <a href="https://www.hackerrank.com/bored_boy">
   <img align="left" alt="Saikat's HackerRank" width="22px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" /></a>
   
@@ -57,9 +57,9 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="CSharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F685-6854994_react-logo-no-background-hd-png-download.png&f=1&nofb=1&ipt=342bbf5c304b72665bc07b9a44f451c696c39582be5ff4fec9c3affcd8a33b88&ipo=images" />
 <img align="left" alt="jQuery" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F683-6833893_node-js-logo-png-transparent-png.png&f=1&nofb=1&ipt=b29c17e9e51e4e598bb1295c472a19d85d815e38ccccf52aebb0210bd88012a1&ipo=images" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="c plus plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
