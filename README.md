@@ -42,11 +42,17 @@
 ### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
+- [Word Quiz App](https://visionary-bonbon-406fa0.netlify.app/)
+- [Sketch App](https://sketch-it-up-saikatbishal.vercel.app/)
 - [Sorting Visualizer](https://sorting-algo-saikat.herokuapp.com/)
 - [Expence Tracker with voice input](https://exp-track-saikat.herokuapp.com/)
 - [Android App - To Do List](https://github.com/saikatbishal/NEW-DO-IT-App)
 <!-- PROJECT-LIST:END -->
 
+### Latest Blogs
+<!-- Blog: START -->
+- [5 Common Beginner's Mistakes in React](https://saikatbishal.hashnode.dev/five-most-common-beginners-mistakes-in-reactjs)
+- [Beginner's guide to GIT](https://saikatbishal.hashnode.dev/beginners-guide-to-using-git-like-a-pro)
 ---
 
 ### Technologies
