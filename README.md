@@ -85,18 +85,18 @@
       <a/>
     </td>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+      <a href="https://developer-resume-livid.vercel.app/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=ayu-mirage&layout=compact&hide_border=true" alt="saikat's language stats">
       <a/>
     </td>
    </tr>
   <tr>
   <tr>
-    <td>
+<!--     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatishal streak stats">
       <a/>
-    </td>
+    </td> -->
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatbishal GitHub Profile">
