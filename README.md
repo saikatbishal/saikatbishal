@@ -92,11 +92,11 @@
    </tr>
   <tr>
   <tr>
-<!--     <td>
+    <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatishal streak stats">
       <a/>
-    </td> -->
+    </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatbishal GitHub Profile">
