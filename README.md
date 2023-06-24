@@ -31,9 +31,7 @@
 
 - 😄 Pronouns:  He, Him
 
-- ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
-
-- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
+- 👨‍⚖️ I am currently working at `Rezolve.ai` as a Software Developer.
 - 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
 
 <br />
