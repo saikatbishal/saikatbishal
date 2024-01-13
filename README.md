@@ -41,11 +41,7 @@
 
 <!-- PROJECT-LIST:START -->
 - [MovieFlix with infinite scroll](https://movie-list-app-six.vercel.app/)
-- [Word Quiz App](https://visionary-bonbon-406fa0.netlify.app/)
-- [Sketch App](https://sketch-it-up-saikatbishal.vercel.app/)
-- [Sorting Visualizer](https://sorting-algo-saikat.herokuapp.com/)
-- [Expence Tracker with voice input](https://exp-track-saikat.herokuapp.com/)
-- [Android App - To Do List](https://github.com/saikatbishal/NEW-DO-IT-App)
+- [Bulletin Board](https://bulletinboard-liart.vercel.app/)
 <!-- PROJECT-LIST:END -->
 
 ### Latest Blogs
