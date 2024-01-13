@@ -40,6 +40,7 @@
 ### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
+- [MovieFlix with infinite scroll](https://movie-list-app-six.vercel.app/)
 - [Word Quiz App](https://visionary-bonbon-406fa0.netlify.app/)
 - [Sketch App](https://sketch-it-up-saikatbishal.vercel.app/)
 - [Sorting Visualizer](https://sorting-algo-saikat.herokuapp.com/)
