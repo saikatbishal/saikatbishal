@@ -40,8 +40,8 @@
 ### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- [MovieFlix with infinite scroll](https://movie-list-app-six.vercel.app/)
-- [Bulletin Board](https://bulletinboard-liart.vercel.app/)
+- [React App Performance Dashboard](https://www.npmjs.com/package/@saikat786/react-perf-dashboard)
+- [Personal Portfolio](https://portfolio-peach-five-31.vercel.app/)
 <!-- PROJECT-LIST:END -->
 
 ### Latest Blogs
@@ -80,7 +80,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://developer-resume-livid.vercel.app/" target="_blank">
+      <a href="https://portfolio-peach-five-31.vercel.app/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbishal&theme=ayu-mirage&layout=compact&hide_border=true" alt="saikat's language stats">
       <a/>
     </td>
@@ -88,19 +88,19 @@
   <tr>
   <tr>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+      <a href="https://portfolio-peach-five-31.vercel.app/" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatishal streak stats">
       <a/>
     </td>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+      <a href="https://portfolio-peach-five-31.vercel.app/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikatbishal&repo=saikatbishal&theme=ayu-mirage&hide_border=true" alt="saikatbishal GitHub Profile">
       <a/>
     </td>
    </tr>
 </table>
 <p align="center">
-  <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+  <a href="https://portfolio-peach-five-31.vercel.app/" target="_blank">
     <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Saikat-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
   <a href="https://discord.gg/UMh8EASp7P" target="_blank">
