@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- 👨‍⚖️ **Current Role:** Software Developer at `Rezolve.ai`.
+- 👨‍⚖️ **Current Role:** Software Developer at `Ramco Systems`.
 - 🌱 **Focus:** I am passionate about **Generative AI**, **Agentic workflows**, and building scalable **React/TypeScript** applications.
 - 👯 **Collaboration:** Open to collaborating on `AI Agents`, `Web Development`, or `Open Source` projects.
 - 💬 **Ask me about:** Web Development, React Architecture, and Agentic AI.
